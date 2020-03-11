@@ -1,0 +1,6 @@
+[submodule "jbrienweb/themes/LoveIt"]
+	path = jbrienweb/themes/LoveIt
+	url = https://github.com/dillonzq/LoveIt.git
+[submodule "jbrienweb/themes/hermit"]
+	path = jbrienweb/themes/hermit
+	url = https://github.com/Track3/hermit.git
